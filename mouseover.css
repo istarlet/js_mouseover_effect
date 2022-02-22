@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&display=swap");
+
+.container {
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.big-shoulders {
+  font-family: "Big Shoulders Display", cursive;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.fs-30 {
+  font-size: 30px;
+  letter-spacing: 2.5px;
+}
+
+.btn {
+  display: inline-flex;
+}
+
+.btn-hover {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+  padding: 1em;
+}
+
+.btnHover--purple {
+  background-color: purple;
+  color: #ffffff;
+}
+
+.btn-arrow {
+  background-color: purple;
+  color: #ffffff;
+  padding: 1em;
+}
+
+.btnArrow--black {
+  background-color: #000000;
+  color: #ffffff;
+}
